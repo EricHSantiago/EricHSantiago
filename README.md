@@ -21,7 +21,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack - Tecnologia
+## 🛠 &nbsp;Tech Stack - Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -55,17 +55,14 @@
 
 <br><br>
 
-<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=EricHSantiago&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHSantiago&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
 
 <br><br>
-
 
 <!--
 **EricHSantiago/EricHSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
