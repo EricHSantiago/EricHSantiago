@@ -1,6 +1,4 @@
-<!--
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EricHSantiago/4b16d875460d81487be491e20f557428/raw/803e6cfea347f34bfa4d81977cf3328897240fc0/githubcard.svg"/>
--->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eric Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EricHSantiago&color=yellow" alt="Profile views" /> </p>
 
@@ -13,7 +11,7 @@
 - 🌱 I’m currently learning **JavaScript, Node.JS, TypeScript, React.JS**
 - 🌱 Atualmente estou estudando **JavaScript, Node.JS, TypeScript, React.JS**
 <br><br>
-- 💬 Ask me about **HTML, CSS, SQL**
+- 💬 Ask me about **HTML, CSS**
 - 💬 Pergunte-me sobre **HTML, CSS**
 <br><br>
 - ⚡ Curiosity: I am passionate about challenges. In my spare time I love to assemble the Rubik's Cube
