@@ -8,8 +8,8 @@
 - 🔭 I am currently working at [Korif](https://github.com/korif)
 - 🔭 Atualmente estou trabalhando na [Korif]
 <br><br>
-- 🌱 I’m currently learning **JavaScript, Node.JS, TypeScript, React.JS**
-- 🌱 Atualmente estou estudando **JavaScript, Node.JS, TypeScript, React.JS**
+- 🌱 Currently studying **JavaScript, Node.JS, TypeScript, React.JS** 
+- 🌱 Atualmente estudando **JavaScript, Node.JS, TypeScript, React.JS**
 <br><br>
 - 💬 Ask me about **HTML, CSS**
 - 💬 Pergunte-me sobre **HTML, CSS**
