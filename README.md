@@ -19,13 +19,20 @@ Here are some ideas to get you started:
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eric Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Full Stack Developer & CEO CEO at Korif passionate about solving problems 
+- 🔥 Junior Full Stack Developer & CEO at Korif passionate about solving problems
+- 🔥 Desenvolvedor Full Stack Júnior e CEO da Korif apaixonado por resolver problemas
 
-- 🔭 I'm currently working freelance at [Korif](https://github.com/korif)
+- 🔭 I am currently CEO also responsible for web development at [Korif](https://github.com/korif)
+- 🔭 Atualmente sou CEO, também responsável pelo desenvolvimento web na [Korif](https://github.com/korif)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 🌱 I’m currently learning **JavaScript, Node.JS, TypeScript, React.JS**
+- 🌱 Atualmente estou estudando **JavaScript, Node.JS, TypeScript, React.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+- 💬 Ask me about **HTML, CSS, SQL**
+- 💬 Pergunte-me sobre **HTML, CSS**
+
+- ⚡ Curiosity: I am passionate about challenges. In my spare time I love to assemble the Rubik's Cube
+- ⚡ Curiosidade: sou apaixonada por desafios. Nas horas vagas adoro montar o cubo mágico
 
 - 👨‍💻 More at [EricHSantiago.dev](https://korif.com.br)
 
@@ -59,14 +66,13 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<!--
+
 ## Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -74,17 +80,14 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
 </p>
 
-<!--
+-->
 
 <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EricHSantiago/EricHSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
