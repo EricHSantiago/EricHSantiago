@@ -1,46 +1,29 @@
-### Hi there 👋
-
-<!--
-**EricHSantiago/EricHSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eric Henrique</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EricHSantiago&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Full Stack Developer & CEO at Korif passionate about solving problems
 - 🔥 Desenvolvedor Full Stack Júnior e CEO da Korif apaixonado por resolver problemas
-
+<br><br>
 - 🔭 I am currently CEO also responsible for web development at [Korif](https://github.com/korif)
 - 🔭 Atualmente sou CEO, também responsável pelo desenvolvimento web na [Korif](https://github.com/korif)
-
+<br><br>
 - 🌱 I’m currently learning **JavaScript, Node.JS, TypeScript, React.JS**
 - 🌱 Atualmente estou estudando **JavaScript, Node.JS, TypeScript, React.JS**
-
+<br><br>
 - 💬 Ask me about **HTML, CSS, SQL**
 - 💬 Pergunte-me sobre **HTML, CSS**
-
+<br><br>
 - ⚡ Curiosity: I am passionate about challenges. In my spare time I love to assemble the Rubik's Cube
 - ⚡ Curiosidade: sou apaixonada por desafios. Nas horas vagas adoro montar o cubo mágico
-
+<br><br>
 - 👨‍💻 More at [EricHSantiago.dev](https://korif.com.br)
 
-<!--
+
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack - Tecnologia
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -59,10 +42,10 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EricHSantiago&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHSantiago&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
+
 
 <br><br>
 
@@ -84,19 +67,4 @@ Here are some ideas to get you started:
 
 -->
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
 **EricHSantiago/EricHSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
