@@ -82,7 +82,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<br><br>
+<br>
 
 <!-- GitHub Analytics -->
 
