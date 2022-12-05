@@ -87,8 +87,8 @@
 <!-- GitHub Analytics -->
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EricHSantiago&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHSantiago&theme=radical&hide_border=false&&layout=compact"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=EricHSantiago&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricHSantiago&theme=radical&hide_border=false&&layout=compact"/>
   
 </div>
 
