@@ -2,8 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eric Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EricHSantiago&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Full Stack Developer and CEO of Korif passionate about problem solving
-- 🔥 Desenvolvedor Full Stack Júnior e CEO da Korif apaixonado por solucionar problemas
+- 🔥 Junior Full Stack Developer, Founder and CEO of Korif passionate about problem solving
+- 🔥 Desenvolvedor Full Stack Júnior, Fundador e CEO da Korif apaixonado por solucionar problemas
 <br><br>
 - 🔭 I am currently working at [Korif](https://github.com/korif)
 - 🔭 Atualmente estou trabalhando na [Korif]
